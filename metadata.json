@@ -1,0 +1,6 @@
+{
+  "name": "出海AI短视频智能仿写与翻译系统",
+  "description": "基于Creatok模式的出海AI短视频智能平台，专为工厂老板、外贸企业与TikTok卖家打造。支持一键提取TikTok热门视频逐字稿、智能脚本仿写、图片/视频快捷合成、中文视频智能翻译配音及人脸克隆等高附加值工具，助您低成本高效率实现内容出海获客。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
